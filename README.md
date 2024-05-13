@@ -52,10 +52,10 @@ React, Git, and GitHub
 
 ### Key Features <a name="key-features"></a>
 
-- **[Best organization]**
-- **[Professional documentation]**
-- **[Clean coding]**
-- **[Team Working]**
+- **Best organization**
+- **Professional documentation**
+- **Clean coding**
+- **Team Working**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
